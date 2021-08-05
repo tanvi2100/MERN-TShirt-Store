@@ -7,7 +7,7 @@ A T-Shirt Store E-Commerce Website using MERN Stack (MongoDB, Express, React JS,
 
  - User authentication and browsing different products and adding to cart for purchase
 
- - Admin authentication and dashboard for creating, deleting and updating products and categories.
+ - Admin authentication and dashboard for creating, deleting and updating products and categories
 
  - Payments integration for making an order and purchasing
  
